@@ -18,6 +18,6 @@ format for different sorts of texts.
 
 EDMAC 3.17 still works just fine, and is a good choice for anyone comfortable with Plain TeX.
 
-Meanwhile, EDMAC 3.16 was adapted in 1994 by Peter Wilson so that it could be conveniently loaded as a LaTeX package and take advantage of LaTeX features. This package was called LEDMAC (https://www.ctan.org/pkg/ledmac).
+Meanwhile, EDMAC 3.16 was adapted in 1994 by Peter Wilson so that it could be conveniently loaded as a LaTeX package and take advantage of LaTeX features. This package was called LEDMAC (available on [CTAN](https://www.ctan.org/pkg/ledmac)).
 
-Later still, Maieul Rocquette worked on LEDMAC and produced an extended, updated LaTeX package called eLEDMAC (https://www.ctan.org/pkg/eledmac).  Later still, eLEDMAC was frozen and its successor evolved into reLEDMAC (https://www.ctan.org/pkg/reledmac).
+Later still, Maieul Rocquette worked on LEDMAC and produced an extended, updated LaTeX package called eLEDMAC ([CTAN](https://www.ctan.org/pkg/eledmac)).  Later still, eLEDMAC was frozen and its successor evolved into reLEDMAC ([CTAN](https://www.ctan.org/pkg/reledmac), [GitHub](https://github.com/maieul/ledmac)).
