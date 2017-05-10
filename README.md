@@ -5,12 +5,12 @@ This is version 3.17, from June 1996.
 
 It was authored by John Lavagnino and Dominik Wujastyk, with help from many friends.  It is not maintained.  
  
-EDMAC is a set of \PlainTeX\ macros providing the
+EDMAC is a set of Plain TeX macros providing the
 ability to format critical editions of texts in the traditional
 way, i.e., similar to the Oxford Classical Texts, Teubner, Arden
 Shakespeare and other series. The principal functions that are
 added are marginal line numbering and multiple series of
-footnotes and endnotes keyed to line numbers. While {\tt EDMAC}'s
+footnotes and endnotes keyed to line numbers. While EDMAC's
 inner workings are necessarily esoteric, it seeks to provide
 relatively simple macros to enable you to control the exact
 format of the edition, taking into account the need to vary the
