@@ -1,0 +1,391 @@
+
+ \begin{theindex} 
+ \makeatletter\scan@allowedfalse
+{\bfseries\hfil Symbols\hfil}\nopagebreak
+
+  \item \verb*+\@add+\pfill \main{46}
+  \item \verb*+\@adv+\pfill \main{35}
+  \item \verb*+\@aux+\pfill \main{76}
+  \item \verb*+\@back+\pfill \main{73}
+  \item \verb*+\@dash+\pfill \main{62}
+  \item \verb*+\@elin+\pfill \main{62}
+  \item \verb*+\@end+\pfill \main{79}
+  \item \verb*+\@esl+\pfill \main{62}
+  \item \verb*+\@gobble+\pfill \main{42}
+  \item \verb*+\@gobblethree+\pfill \main{80}
+  \item \verb*+\@h+\pfill \main{70}
+  \item \verb*+\@inputcheck+\pfill \main{32}
+  \item \verb*+\@k+\pfill \main{70}
+  \item \verb*+\@l+\pfill \main{34}
+  \item \verb*+\@lab+\pfill \main{77}
+  \item \verb*+\@lock+\pfill \main{30}
+  \item \verb*+\@nums+\pfill \main{44}
+  \item \verb*+\@page+\pfill \main{35}
+  \item \verb*+\@pnum+\pfill \main{62}
+  \item \verb*+\@ref+\pfill \main{37}
+  \item \verb*+\@section+\pfill \main{80}
+  \item \verb*+\@set+\pfill \main{35}
+  \item \verb*+\@ssub+\pfill \main{62}
+  \item \verb*+\@tag+\pfill \main{44}
+  \item \verb*+\@tempcnta+\pfill \main{22}
+  \item \verb*+\@tempcntb+\pfill \main{22}
+  \item \verb*+\@toksa+\pfill \main{28}
+  \item \verb*+\@toksb+\pfill \main{28}
+  \item \verb*+\@xloop+\pfill \main{56}
+
+  \indexspace
+{\bfseries\hfil A\hfil}\nopagebreak
+
+  \item \verb*+\absline@num+\pfill \main{29}
+  \item Abu Kamil Shuja' b. Aslam\pfill 5
+  \item \verb*+\actionlines@list+\pfill \main{30}
+  \item \verb*+\actions@list+\pfill \main{30}
+  \item \verb*+\add@inserts+\pfill \main{54}
+  \item \verb*+\add@inserts@next+\pfill \main{54}
+  \item \verb*+\add@penalties+\pfill \main{55}
+  \item Adelard II\pfill 5
+  \item Adriaensen, Roelf\pfill 5
+  \item \verb*+\advanceline+\pfill \usage{13}, \main{40}
+  \item \verb*+\Aend+\pfill \main{80}
+  \item \verb*+\Aendnote+\pfill \usage{11}, \main{80}
+  \item \verb*+\affixline@num+\pfill \main{52}
+  \item \verb*+\Afootnote+\pfill \usage{10}, \main{60}
+  \item \verb*+\autopar+\pfill \usage{8}, \main{47}
+
+  \indexspace
+{\bfseries\hfil B\hfil}\nopagebreak
+
+  \item \verb*+\back@margin+\pfill \main{73}
+  \item Bakker, Hans\pfill 5
+  \item \verb*+\ballast+\pfill \usage{21}, \main{50}
+  \item \verb*+\ballast@count+\pfill \main{50}
+  \item Beeton, Barbara Ann Neuhaus Friend\pfill 9
+  \item \verb*+\beginnumbering+\pfill \usage{7}, \main{23}
+  \item \verb*+\Bend+\pfill \main{80}
+  \item \verb*+\Bendnote+\pfill \usage{11}, \main{80}
+  \item \verb*+\Bfootnote+\pfill \usage{10}, \main{60}
+  \item Bredon, Simon\pfill 5
+  \item Breger, Herbert\pfill 5
+  \item Brey, Gerhard\pfill 5
+  \item Busard, Hubert L. L.\pfill 5
+  \item \verb*+\bypage@false+\pfill \main{25}
+  \item \verb*+\bypage@true+\pfill \main{25}
+
+  \indexspace
+{\bfseries\hfil C\hfil}\nopagebreak
+
+  \item \verb*+\Cend+\pfill \main{80}
+  \item \verb*+\Cendnote+\pfill \usage{11}, \main{80}
+  \item \verb*+\Cfootnote+\pfill \usage{10}, \main{60}
+  \item Chester, Robert of\pfill 5
+  \item Claassens, Geert H. M.\pfill 5
+  \item Copernicus, Nicolaus\pfill 5
+  \item \verb*+\crop@hsize+\pfill \main{73}
+  \item \verb*+\crop@vsize+\pfill \main{73}
+  \item \verb*+\cropgap+\pfill \usage{19}, \main{73}
+  \item \verb*+\cropsetup+\pfill \usage{18}, \main{74}
+  \item \verb*+\cropwidth+\pfill \usage{19}, \main{73}
+
+  \indexspace
+{\bfseries\hfil D\hfil}\nopagebreak
+
+  \item \verb*+\Dend+\pfill \main{80}
+  \item \verb*+\Dendnote+\pfill \usage{11}, \main{80}
+  \item \verb*+\Dfootnote+\pfill \usage{10}, \main{60}
+  \item \verb*+\do@actions+\pfill \main{50}
+  \item \verb*+\do@actions@next+\pfill \main{50}
+  \item \verb*+\do@ballast+\pfill \main{50}
+  \item \verb*+\do@cropmarks+\pfill \main{75}
+  \item \verb*+\do@feet+\pfill \main{76}
+  \item \verb*+\do@labelsfile+\pfill \main{77}
+  \item \verb*+\do@line+\pfill \main{48}
+  \item \verb*+\do@lockoff+\pfill \main{37}
+  \item \verb*+\do@lockon+\pfill \main{36}
+  \item \verb*+\doendnotes+\pfill \usage{19}, \main{81}
+  \item \verb*+\dosplits+\pfill \main{70}
+  \item Downes, Michael\pfill 21, 67, 68
+  \item \verb*+\dummy@ref+\pfill \main{37}
+  \item \verb*+\dummy@text+\pfill \main{42}
+
+  \indexspace
+{\bfseries\hfil E\hfil}\nopagebreak
+
+  \item \verb*+\edfont@info+\pfill \main{45}
+  \item \verb*+\edmac@output+\pfill \main{75}
+  \item \verb*+\edmac@warning+\pfill \main{22}
+  \item \verb*+\Eend+\pfill \main{80}
+  \item \verb*+\Eendnote+\pfill \usage{11}, \main{80}
+  \item \verb*+\Efootnote+\pfill \usage{10}, \main{60}
+  \item \verb*+\eightpoint+\pfill \main{58}
+  \item \verb*+\en@number+\pfill \main{66}
+  \item \verb*+\end@close+\pfill \main{79}
+  \item \verb*+\end@false+\pfill \main{79}
+  \item \verb*+\end@lemmas+\pfill \main{42}
+  \item \verb*+\end@open+\pfill \main{79}
+  \item \verb*+\end@stuff+\pfill \main{80}
+  \item \verb*+\end@true+\pfill \main{79}
+  \item \verb*+\endashchar+\pfill \usage{15}, \main{62}
+  \item \verb*+\endline@num+\pfill \main{32}
+  \item \verb*+\endlock+\pfill \usage{13}, \main{40}
+  \item \verb*+\endnumbering+\pfill \usage{7}, \main{24}
+  \item \verb*+\endpage@num+\pfill \main{32}
+  \item \verb*+\endprint+\pfill \usage{19}, \main{80}
+  \item \verb*+\endsub+\pfill \usage{13}, \main{39}
+  \item \verb*+\endsubline@num+\pfill \main{32}
+  \item Euclid\pfill 5
+  \item \verb*+\even@back+\pfill \main{73}
+  \item \verb*+\extensionchars+\pfill \usage{21}, \main{23}
+
+  \indexspace
+{\bfseries\hfil F\hfil}\nopagebreak
+
+  \item \verb*+\first@linenum@out@false+\pfill \main{38}
+  \item \verb*+\first@linenum@out@true+\pfill \main{38}
+  \item \verb*+\firstlinenum+\pfill \usage{12}, \main{26}
+  \item \verb*+\firstsublinenum+\pfill \usage{12}, \main{26}
+  \item \verb*+\flag@end+\pfill \main{39}
+  \item \verb*+\flag@start+\pfill \main{39}
+  \item \verb*+\flush@notes+\pfill \main{56}
+  \item Folkerts, Menso\pfill 5
+  \item \verb*+\footnormal+\pfill \main{64}
+  \item \verb*+\footparagraph+\pfill \usage{14}, \main{65}
+  \item \verb*+\footthreecol+\pfill \usage{14}, \main{70}
+  \item \verb*+\foottwocol+\pfill \usage{14}, \main{72}
+  \item Fritscher, Bernhard\pfill 5
+  \item \verb*+\fullstop+\pfill \usage{15}, \main{62}
+
+  \indexspace
+{\bfseries\hfil G\hfil}\nopagebreak
+
+  \item G\"adeke, Nora\pfill 5
+  \item Gaertner, Barbara\pfill 5
+  \item Gascoigne, George\pfill 85
+  \item \verb*+\getline@num+\pfill \main{49}
+  \item \verb*+\getref@num+\pfill \main{78}
+  \item \verb*+\gl@p+\pfill \main{28}
+
+  \indexspace
+{\bfseries\hfil H\hfil}\nopagebreak
+
+  \item \verb*+\head@margin+\pfill \main{73}
+  \item \verb*+\headlinefont+\pfill \usage{18}, \main{73}
+  \item Hogendijk, J. P.\pfill 5
+  \item \verb*+\horizontal@rules+\pfill \main{73}
+
+  \indexspace
+{\bfseries\hfil I\hfil}\nopagebreak
+
+  \item \verb*+\ifbypage@+\pfill \main{25}
+  \item \verb*+\ifcropmarks@+\pfill \main{74}
+  \item \verb*+\ifend@+\pfill \main{79}
+  \item \verb*+\iffirst@linenum@out@+\pfill \main{38}
+  \item \verb*+\ifnoteschanged@+\pfill \main{32}
+  \item \verb*+\ifnumberedpar@+\pfill \main{46}
+  \item \verb*+\ifnumbering+\pfill \main{23}
+  \item \verb*+\ifsublines@+\pfill \main{29}
+  \item \verb*+\insert@count+\pfill \main{37}
+  \item \verb*+\insertlines@list+\pfill \main{30}
+  \item \verb*+\inserts@list+\pfill \main{54}
+  \item \verb*+\interparanoteglue+\pfill \usage{14}, \main{68}
+  \item \verb*+\ipn@skip+\pfill \main{68}
+  \item Isaacson, Harunaga\pfill 5
+
+  \indexspace
+{\bfseries\hfil K\hfil}\nopagebreak
+
+  \item Kabelschacht, Alois\pfill 56
+  \item Kirschner, Stefan\pfill 5
+  \item Kuehne, Andreas\pfill 5
+
+  \indexspace
+{\bfseries\hfil L\hfil}\nopagebreak
+
+  \item \verb*+\label+\pfill \usage{19}, \main{77}
+  \item \verb*+\label@parse+\pfill \main{78}
+  \item \verb*+\labelref@list+\pfill \main{76}
+  \item Lagally, Klaus\pfill 101
+  \item \verb*+\leftlinenum+\pfill \usage{12}, \main{27}
+  \item Leibniz\pfill 5
+  \item \verb*+\lemma+\pfill \usage{11}, \main{45}
+  \item Levy, Silvio\pfill 95
+  \item \verb*+\line@list+\pfill \main{30}
+  \item \verb*+\line@list@stuff+\pfill \main{39}
+  \item \verb*+\line@margin+\pfill \main{25}
+  \item \verb*+\line@num+\pfill \main{29}
+  \item \verb*+\line@set+\pfill \main{45}
+  \item \verb*+\lineation+\pfill \usage{12}, \main{25}
+  \item \verb*+\linenum+\pfill \usage{11}, \main{45}
+  \item \verb*+\linenum@out+\pfill \main{38}
+  \item \verb*+\linenumincrement+\pfill \usage{12}, \main{26}
+  \item \verb*+\linenummargin+\pfill \usage{12}, \main{25}
+  \item \verb*+\linenumsep+\pfill \usage{12}, \main{27}
+  \item \verb*+\lineref+\pfill \usage{19}, \main{78}
+  \item \verb*+\list@clear+\pfill \main{28}
+  \item \verb*+\list@create+\pfill \main{28}
+  \item \verb*+\lock@disp+\pfill \main{26}
+  \item \verb*+\lock@off+\pfill \main{37}
+  \item \verb*+\lock@on+\pfill \main{36}
+  \item \verb*+\lockdisp+\pfill \usage{13}, \main{26}
+  \item Lorch, Richard\pfill 5
+
+  \indexspace
+{\bfseries\hfil M\hfil}\nopagebreak
+
+  \item \verb*+\magicvskip+\pfill \usage{18}, \main{73}
+  \item \verb*+\make@labels+\pfill \main{77}
+  \item \verb*+\makeatletter+\pfill \main{22}
+  \item \verb*+\makeatother+\pfill \main{22}
+  \item \verb*+\makelabel+\pfill \usage{20}, \main{79}
+  \item Mattes, Eberhard\pfill 6
+  \item Mayer, Gyula\pfill 5
+  \item Middleton, Thomas\pfill 5, 29
+  \item Mittelbach, Frank\pfill 4, 16, 57, 59
+  \item \verb*+\morenoexpands+\pfill \main{42}
+
+  \indexspace
+{\bfseries\hfil N\hfil}\nopagebreak
+
+  \item \verb*+\new@line+\pfill \main{39}
+  \item \verb*+\no@expands+\pfill \main{42}
+  \item Nobis, Heribert M.\pfill 5
+  \item \verb*+\noendnotes+\pfill \usage{19}, \main{81}
+  \item \verb*+\normal@pars+\pfill \main{48}
+  \item \verb*+\normalfootfmt+\pfill \main{61}
+  \item \verb*+\normalfootgroup+\pfill \main{64}
+  \item \verb*+\normalfootnoterule+\pfill \main{64}
+  \item \verb*+\normalfootstart+\pfill \main{63}
+  \item \verb*+\normalvfootnote+\pfill \main{61}
+  \item \verb*+\notefontsetup+\pfill \usage{15}, \main{57}, \main{59}
+  \item \verb*+\notenumfont+\pfill \usage{15}, \main{59}
+  \item \verb*+\noteschanged@false+\pfill \main{32}
+  \item \verb*+\noteschanged@true+\pfill \main{32}
+  \item \verb*+\num@lines+\pfill \main{46}
+  \item \verb*+\numberedpar@false+\pfill \main{46}
+  \item \verb*+\numberedpar@true+\pfill \main{46}
+  \item \verb*+\numberingfalse+\pfill \main{23}
+  \item \verb*+\numberingtrue+\pfill \main{23}
+  \item \verb*+\numlabfont+\pfill \usage{15}, \main{27}
+
+  \indexspace
+{\bfseries\hfil O\hfil}\nopagebreak
+
+  \item \verb*+\odd@back+\pfill \main{73}
+  \item \verb*+\one@line+\pfill \main{46}
+  \item \verb*+\output+\pfill \main{75}
+
+  \indexspace
+{\bfseries\hfil P\hfil}\nopagebreak
+
+  \item \verb*+\page@action+\pfill \main{36}
+  \item \verb*+\page@num+\pfill \main{32}
+  \item \verb*+\page@start+\pfill \main{39}
+  \item \verb*+\pagecontents+\pfill \main{75}
+  \item \verb*+\pageref+\pfill \usage{19}, \main{78}
+  \item \verb*+\par@line+\pfill \main{46}
+  \item \verb*+\para@footgroup+\pfill \main{69}
+  \item \verb*+\para@footsetup+\pfill \main{66}
+  \item \verb*+\para@vfootnote+\pfill \main{66}
+  \item \verb*+\parafootfmt+\pfill \main{69}
+  \item \verb*+\parafootstart+\pfill \main{66}
+  \item \verb*+\pausenumbering+\pfill \usage{9}, \main{24}
+  \item \verb*+\pend+\pfill \usage{8}, \main{47}
+  \item Petrovich, Eduardo\pfill 5
+  \item Pigman, % III$^{rd}$, G. W.\pfill 5
+  \item Pigman, III$^{rd}$, G. W.\pfill 85
+  \item Plato of Tivoli\pfill 5
+  \item \verb*+\printlines+\pfill \main{62}
+  \item \verb*+\pstart+\pfill \usage{8}, \main{46}
+
+  \indexspace
+{\bfseries\hfil R\hfil}\nopagebreak
+
+  \item \verb*+\raw@text+\pfill \main{46}
+  \item \verb*+\rbracket+\pfill \usage{15}, \main{62}
+  \item \verb*+\read@linelist+\pfill \main{32}
+  \item \verb*+\ref@undefined+\pfill \main{78}
+  \item \verb*+\registration@marks+\pfill \main{73}
+  \item \verb*+\resumenumbering+\pfill \usage{9}, \main{24}
+  \item \verb*+\rightlinenum+\pfill \usage{12}, \main{27}
+  \item \verb*+\rigidbalance+\pfill \main{70}
+  \item Robinson, Peter\pfill 3
+
+  \indexspace
+{\bfseries\hfil S\hfil}\nopagebreak
+
+  \item Sacrobosco\pfill 5
+  \item Salomon, David\pfill 74
+  \item Sch\"opf, Rainer\pfill 4, 16, 57, 59
+  \item Schoener, Christoph\pfill 5
+  \item \verb*+\section@num+\pfill \main{23}
+  \item \verb*+\select@@lemmafont+\pfill \main{60}
+  \item \verb*+\select@lemmafont+\pfill \usage{15}, \main{59, 60}
+  \item \verb*+\set@line+\pfill \main{44}
+  \item \verb*+\set@line@action+\pfill \main{36}
+  \item \verb*+\setline+\pfill \usage{13}, \main{40}
+  \item Shakespeare, William\pfill 90
+  \item \verb*+\skip@lockoff+\pfill \main{37}
+  \item \verb*+\splitoff+\pfill \main{70}
+  \item \verb*+\startlock+\pfill \usage{13}, \main{40}
+  \item \verb*+\startsub+\pfill \usage{13}, \main{39}
+  \item \verb*+\sub@action+\pfill \main{36}
+  \item \verb*+\sub@lock+\pfill \main{30}
+  \item \verb*+\sub@off+\pfill \main{35}
+  \item \verb*+\sub@on+\pfill \main{35}
+  \item \verb*+\subline@num+\pfill \main{29}
+  \item \verb*+\sublinenumincrement+\pfill \usage{12}, \main{26}
+  \item \verb*+\sublineref+\pfill \usage{19}, \main{78}
+  \item \verb*+\sublines@false+\pfill \main{29}
+  \item \verb*+\sublines@true+\pfill \main{29}
+  \item \verb*+\sublock@disp+\pfill \main{27}
+  \item \verb*+\sublockdisp+\pfill \main{27}
+  \item Sullivan, Wayne\pfill 4, 5, 16, 21, 24, 57, 67, 68, 77, 94
+
+  \indexspace
+{\bfseries\hfil T\hfil}\nopagebreak
+
+  \item \verb*+\text+\pfill \usage{10}, \main{43}
+  \item Theodosius\pfill 5
+  \item \verb*+\threecolfootfmt+\pfill \main{71}
+  \item \verb*+\threecolfootgroup+\pfill \main{71}
+  \item \verb*+\threecolfootsetup+\pfill \main{70}
+  \item \verb*+\threecolvfootnote+\pfill \main{71}
+  \item Timkovics, Paulus Ladislaus\pfill 5
+  \item \verb*+\twocolfootfmt+\pfill \main{72}
+  \item \verb*+\twocolfootgroup+\pfill \main{72}
+  \item \verb*+\twocolfootsetup+\pfill \main{72}
+  \item \verb*+\twocolvfootnote+\pfill \main{72}
+
+  \indexspace
+{\bfseries\hfil U\hfil}\nopagebreak
+
+  \item \verb*+\unvxh+\pfill \main{68}
+
+  \indexspace
+{\bfseries\hfil V\hfil}\nopagebreak
+
+  \item Velthuis, Frans\pfill 101
+  \item \verb*+\vertical@rules+\pfill \main{73}
+
+  \indexspace
+{\bfseries\hfil W\hfil}\nopagebreak
+
+  \item Whitney, Ron\pfill 4
+  \item Williamson, Hugh\pfill 73
+  \item Wujastyk, Dominik\pfill 5
+
+  \indexspace
+{\bfseries\hfil X\hfil}\nopagebreak
+
+  \item \verb*+\xleft@appenditem+\pfill \main{28}
+  \item \verb*+\xlineref+\pfill \usage{20}, \main{78}
+  \item \verb*+\xpageref+\pfill \usage{20}, \main{78}
+  \item \verb*+\xright@appenditem+\pfill \main{28}
+  \item \verb*+\xsublineref+\pfill \usage{20}, \main{78}
+  \item \verb*+\xxref+\pfill \usage{20}, \main{79}
+
+  \indexspace
+{\bfseries\hfil Z\hfil}\nopagebreak
+
+  \item \verb*+\zz@@@+\pfill \main{77}
+
+ \end{theindex}

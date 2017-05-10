@@ -1,0 +1,105 @@
+This is makeindex, version 2.15 [TeX Live 2010] (kpathsea + Thai support).
+Scanning input file edmac.idx....
+!! Input index error (file = edmac.idx, line = 121):
+   -- Illegal null field.
+!! Input index error (file = edmac.idx, line = 122):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 155):
+   -- Illegal null field.
+!! Input index error (file = edmac.idx, line = 156):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 166):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 180):
+   -- Illegal null field.
+!! Input index error (file = edmac.idx, line = 181):
+   -- Illegal null field.
+!! Input index error (file = edmac.idx, line = 182):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 185):
+   -- Illegal null field.
+!! Input index error (file = edmac.idx, line = 186):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 188):
+   -- Extra `@' at position 9 of first argument.
+
+!! Input index error (file = edmac.idx, line = 195):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 200):
+   -- Extra `@' at position 16 of first argument.
+!! Input index error (file = edmac.idx, line = 201):
+   -- Extra `@' at position 14 of first argument.
+!! Input index error (file = edmac.idx, line = 202):
+   -- Extra `@' at position 14 of first argument.
+!! Input index error (file = edmac.idx, line = 203):
+   -- Extra `@' at position 10 of first argument.
+
+!! Input index error (file = edmac.idx, line = 216):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 220):
+   -- Illegal null field.
+!! Input index error (file = edmac.idx, line = 221):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 227):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 245):
+   -- Extra `@' at position 11 of first argument.
+
+!! Input index error (file = edmac.idx, line = 249):
+   -- Extra `@' at position 12 of first argument.
+
+!! Input index error (file = edmac.idx, line = 252):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 266):
+   -- Extra `@' at position 8 of first argument.
+
+!! Input index error (file = edmac.idx, line = 278):
+   -- Illegal null field.
+!! Input index error (file = edmac.idx, line = 279):
+   -- Illegal null field.
+!! Input index error (file = edmac.idx, line = 280):
+   -- Illegal null field.
+!! Input index error (file = edmac.idx, line = 281):
+   -- Illegal null field.
+!! Input index error (file = edmac.idx, line = 282):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 304):
+   -- Illegal null field.
+!! Input index error (file = edmac.idx, line = 305):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 322):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 340):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 343):
+   -- Extra `@' at position 4 of first argument.
+
+!! Input index error (file = edmac.idx, line = 346):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 358):
+   -- Illegal null field.
+
+!! Input index error (file = edmac.idx, line = 376):
+   -- Illegal null field.
+!! Input index error (file = edmac.idx, line = 377):
+   -- Illegal null field.
+done (348 entries accepted, 38 rejected).
+Sorting entries......done (3354 comparisons).
+Generating output file edmac.ind....done (526 lines written, 0 warnings).
+Output written in edmac.ind.
+Transcript written in edmac.ilg.

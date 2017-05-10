@@ -1,0 +1,386 @@
+\indexentry{Karasch, Bernt}{3}
+\indexentry{Robinson, Peter}{3}
+\indexentry{Mittelbach, Frank}{4}
+\indexentry{Whitney, Ron}{4}
+\indexentry{Sullivan, Wayne}{4}
+\indexentry{Sch\"opf, Rainer}{4}
+\indexentry{Mittelbach, Frank}{4}
+\indexentry{Copernicus, Nicolaus}{5}
+\indexentry{Bredon, Simon}{5}
+\indexentry{Plato of Tivoli}{5}
+\indexentry{Abu Kamil Shuja' b. Aslam}{5}
+\indexentry{Leibniz}{5}
+\indexentry{Theodosius}{5}
+\indexentry{Sacrobosco}{5}
+\indexentry{Middleton, Thomas}{5}
+\indexentry{Sullivan, Wayne}{5}
+\indexentry{Pigman, % III$^{rd}$, G. W.}{5}
+\indexentry{Wujastyk, Dominik}{5}
+\indexentry{Brey, Gerhard}{5}
+\indexentry{Busard, Hubert L. L.}{5}
+\indexentry{Folkerts, Menso}{5}
+\indexentry{Chester, Robert of}{5}
+\indexentry{Euclid}{5}
+\indexentry{Adelard II}{5}
+\indexentry{Nobis, Heribert M.}{5}
+\indexentry{Folkerts, Menso}{5}
+\indexentry{Kuehne, Andreas}{5}
+\indexentry{Lorch, Richard}{5}
+\indexentry{Brey, Gerhard}{5}
+\indexentry{Kirschner, Stefan}{5}
+\indexentry{Schoener, Christoph}{5}
+\indexentry{Fritscher, Bernhard}{5}
+\indexentry{Brey, Gerhard}{5}
+\indexentry{Folkerts, Menso}{5}
+\indexentry{Hogendijk, J. P.}{5}
+\indexentry{Claassens, Geert H. M.}{5}
+\indexentry{Gaertner, Barbara}{5}
+\indexentry{Petrovich, Eduardo}{5}
+\indexentry{Timkovics, Paulus Ladislaus}{5}
+\indexentry{Mayer, Gyula}{5}
+\indexentry{Breger, Herbert}{5}
+\indexentry{G\"adeke, Nora}{5}
+\indexentry{Bakker, Hans}{5}
+\indexentry{Adriaensen, Roelf}{5}
+\indexentry{Isaacson, Harunaga}{5}
+\indexentry{Mattes, Eberhard}{6}
+\indexentry{beginnumbering=\verb!*+\beginnumbering+|usage}{7}
+\indexentry{endnumbering=\verb!*+\endnumbering+|usage}{7}
+\indexentry{pstart=\verb!*+\pstart+|usage}{8}
+\indexentry{pend=\verb!*+\pend+|usage}{8}
+\indexentry{autopar=\verb!*+\autopar+|usage}{8}
+\indexentry{pausenumbering=\verb!*+\pausenumbering+|usage}{9}
+\indexentry{resumenumbering=\verb!*+\resumenumbering+|usage}{9}
+\indexentry{Beeton, Barbara Ann Neuhaus Friend}{9}
+\indexentry{text=\verb!*+\text+|usage}{10}
+\indexentry{Afootnote=\verb!*+\Afootnote+|usage}{10}
+\indexentry{Bfootnote=\verb!*+\Bfootnote+|usage}{10}
+\indexentry{Cfootnote=\verb!*+\Cfootnote+|usage}{10}
+\indexentry{Dfootnote=\verb!*+\Dfootnote+|usage}{10}
+\indexentry{Efootnote=\verb!*+\Efootnote+|usage}{10}
+\indexentry{Aendnote=\verb!*+\Aendnote+|usage}{11}
+\indexentry{Bendnote=\verb!*+\Bendnote+|usage}{11}
+\indexentry{Cendnote=\verb!*+\Cendnote+|usage}{11}
+\indexentry{Dendnote=\verb!*+\Dendnote+|usage}{11}
+\indexentry{Eendnote=\verb!*+\Eendnote+|usage}{11}
+\indexentry{lemma=\verb!*+\lemma+|usage}{11}
+\indexentry{linenum=\verb!*+\linenum+|usage}{11}
+\indexentry{lineation=\verb!*+\lineation+|usage}{12}
+\indexentry{linenummargin=\verb!*+\linenummargin+|usage}{12}
+\indexentry{firstlinenum=\verb!*+\firstlinenum+|usage}{12}
+\indexentry{linenumincrement=\verb!*+\linenumincrement+|usage}{12}
+\indexentry{firstsublinenum=\verb!*+\firstsublinenum+|usage}{12}
+\indexentry{sublinenumincrement=\verb!*+\sublinenumincrement+|usage}{12}
+\indexentry{leftlinenum=\verb!*+\leftlinenum+|usage}{12}
+\indexentry{rightlinenum=\verb!*+\rightlinenum+|usage}{12}
+\indexentry{linenumsep=\verb!*+\linenumsep+|usage}{12}
+\indexentry{startsub=\verb!*+\startsub+|usage}{13}
+\indexentry{endsub=\verb!*+\endsub+|usage}{13}
+\indexentry{startlock=\verb!*+\startlock+|usage}{13}
+\indexentry{endlock=\verb!*+\endlock+|usage}{13}
+\indexentry{lockdisp=\verb!*+\lockdisp+|usage}{13}
+\indexentry{setline=\verb!*+\setline+|usage}{13}
+\indexentry{advanceline=\verb!*+\advanceline+|usage}{13}
+\indexentry{footparagraph=\verb!*+\footparagraph+|usage}{14}
+\indexentry{foottwocol=\verb!*+\foottwocol+|usage}{14}
+\indexentry{footthreecol=\verb!*+\footthreecol+|usage}{14}
+\indexentry{interparanoteglue=\verb!*+\interparanoteglue+|usage}{14}
+\indexentry{notefontsetup=\verb!*+\notefontsetup+|usage}{15}
+\indexentry{notenumfont=\verb!*+\notenumfont+|usage}{15}
+\indexentry{numlabfont=\verb!*+\numlabfont+|usage}{15}
+\indexentry{select@lemmafont=\verb!*+\select@lemmafont+|usage}{15}
+\indexentry{endashchar=\verb!*+\endashchar+|usage}{15}
+\indexentry{fullstop=\verb!*+\fullstop+|usage}{15}
+\indexentry{rbracket=\verb!*+\rbracket+|usage}{15}
+\indexentry{Mittelbach, Frank}{16}
+\indexentry{Sch\"opf, Rainer}{16}
+\indexentry{Sullivan, Wayne}{16}
+\indexentry{cropsetup=\verb!*+\cropsetup+|usage}{18}
+\indexentry{headlinefont=\verb!*+\headlinefont+|usage}{18}
+\indexentry{magicvskip=\verb!*+\magicvskip+|usage}{18}
+\indexentry{cropwidth=\verb!*+\cropwidth+|usage}{19}
+\indexentry{cropgap=\verb!*+\cropgap+|usage}{19}
+\indexentry{doendnotes=\verb!*+\doendnotes+|usage}{19}
+\indexentry{endprint=\verb!*+\endprint+|usage}{19}
+\indexentry{noendnotes=\verb!*+\noendnotes+|usage}{19}
+\indexentry{label=\verb!*+\label+|usage}{19}
+\indexentry{pageref=\verb!*+\pageref+|usage}{19}
+\indexentry{lineref=\verb!*+\lineref+|usage}{19}
+\indexentry{sublineref=\verb!*+\sublineref+|usage}{19}
+\indexentry{xpageref=\verb!*+\xpageref+|usage}{20}
+\indexentry{xlineref=\verb!*+\xlineref+|usage}{20}
+\indexentry{xsublineref=\verb!*+\xsublineref+|usage}{20}
+\indexentry{xxref=\verb!*+\xxref+|usage}{20}
+\indexentry{makelabel=\verb!*+\makelabel+|usage}{20}
+\indexentry{extensionchars=\verb!*+\extensionchars+|usage}{21}
+\indexentry{ballast=\verb!*+\ballast+|usage}{21}
+\indexentry{Sullivan, Wayne}{21}
+\indexentry{Downes, Michael}{21}
+\indexentry{makeatletter=\verb!*+\makeatletter+|main}{22}
+\indexentry{makeatother=\verb!*+\makeatother+|main}{22}
+\indexentry{@tempcnta=\verb!*+\@tempcnta+|main}{22}
+\indexentry{@tempcntb=\verb!*+\@tempcntb+|main}{22}
+\indexentry{edmac@warning=\verb!*+\edmac@warning+|main}{23}
+\indexentry{section@num=\verb!*+\section@num+|main}{23}
+\indexentry{extensionchars=\verb!*+\extensionchars+|main}{23}
+\indexentry{ifnumbering=\verb!*+\ifnumbering+|main}{23}
+\indexentry{numberingtrue=\verb!*+\numberingtrue+|main}{23}
+\indexentry{numberingfalse=\verb!*+\numberingfalse+|main}{23}
+\indexentry{beginnumbering=\verb!*+\beginnumbering+|main}{23}
+\indexentry{endnumbering=\verb!*+\endnumbering+|main}{24}
+\indexentry{pausenumbering=\verb!*+\pausenumbering+|main}{24}
+\indexentry{resumenumbering=\verb!*+\resumenumbering+|main}{24}
+\indexentry{Sullivan, Wayne}{24}
+\indexentry{ifbypage@=\verb!*+\ifbypage@+|main}{25}
+\indexentry{bypage@true=\verb!*+\bypage@true+|main}{25}
+\indexentry{bypage@false=\verb!*+\bypage@false+|main}{25}
+\indexentry{lineation=\verb!*+\lineation+|main}{25}
+\indexentry{linenummargin=\verb!*+\linenummargin+|main}{25}
+\indexentry{line@margin=\verb!*+\line@margin+|main}{25}
+\indexentry{firstlinenum=\verb!*+\firstlinenum+|main}{26}
+\indexentry{linenumincrement=\verb!*+\linenumincrement+|main}{26}
+\indexentry{firstsublinenum=\verb!*+\firstsublinenum+|main}{26}
+\indexentry{sublinenumincrement=\verb!*+\sublinenumincrement+|main}{26}
+\indexentry{lockdisp=\verb!*+\lockdisp+|main}{26}
+\indexentry{lock@disp=\verb!*+\lock@disp+|main}{26}
+\indexentry{sublockdisp=\verb!*+\sublockdisp+|main}{27}
+\indexentry{sublock@disp=\verb!*+\sublock@disp+|main}{27}
+\indexentry{leftlinenum=\verb!*+\leftlinenum+|main}{27}
+\indexentry{rightlinenum=\verb!*+\rightlinenum+|main}{27}
+\indexentry{linenumsep=\verb!*+\linenumsep+|main}{27}
+\indexentry{numlabfont=\verb!*+\numlabfont+|main}{27}
+\indexentry{list@create=\verb!*+\list@create+|main}{28}
+\indexentry{list@clear=\verb!*+\list@clear+|main}{28}
+\indexentry{xright@appenditem=\verb!*+\xright@appenditem+|main}{28}
+\indexentry{@toksa=\verb!*+\@toksa+|main}{28}
+\indexentry{@toksb=\verb!*+\@toksb+|main}{28}
+\indexentry{xleft@appenditem=\verb!*+\xleft@appenditem+|main}{28}
+\indexentry{gl@p=\verb!*+\gl@p+|main}{29}
+\indexentry{line@num=\verb!*+\line@num+|main}{29}
+\indexentry{subline@num=\verb!*+\subline@num+|main}{29}
+\indexentry{ifsublines@=\verb!*+\ifsublines@+|main}{29}
+\indexentry{sublines@true=\verb!*+\sublines@true+|main}{29}
+\indexentry{sublines@false=\verb!*+\sublines@false+|main}{29}
+\indexentry{Middleton, Thomas}{29}
+\indexentry{absline@num=\verb!*+\absline@num+|main}{30}
+\indexentry{@lock=\verb!*+\@lock+|main}{30}
+\indexentry{sub@lock=\verb!*+\sub@lock+|main}{30}
+\indexentry{line@list=\verb!*+\line@list+|main}{30}
+\indexentry{insertlines@list=\verb!*+\insertlines@list+|main}{30}
+\indexentry{actionlines@list=\verb!*+\actionlines@list+|main}{30}
+\indexentry{actions@list=\verb!*+\actions@list+|main}{30}
+\indexentry{page@num=\verb!*+\page@num+|main}{32}
+\indexentry{endpage@num=\verb!*+\endpage@num+|main}{32}
+\indexentry{endline@num=\verb!*+\endline@num+|main}{32}
+\indexentry{endsubline@num=\verb!*+\endsubline@num+|main}{32}
+\indexentry{ifnoteschanged@=\verb!*+\ifnoteschanged@+|main}{32}
+\indexentry{noteschanged@true=\verb!*+\noteschanged@true+|main}{32}
+\indexentry{noteschanged@false=\verb!*+\noteschanged@false+|main}{32}
+\indexentry{read@linelist=\verb!*+\read@linelist+|main}{32}
+\indexentry{@inputcheck=\verb!*+\@inputcheck+|main}{32}
+\indexentry{@l=\verb!*+\@l+|main}{34}
+\indexentry{@page=\verb!*+\@page+|main}{35}
+\indexentry{sub@on=\verb!*+\sub@on+|main}{35}
+\indexentry{sub@off=\verb!*+\sub@off+|main}{35}
+\indexentry{@adv=\verb!*+\@adv+|main}{35}
+\indexentry{@set=\verb!*+\@set+|main}{35}
+\indexentry{page@action=\verb!*+\page@action+|main}{36}
+\indexentry{set@line@action=\verb!*+\set@line@action+|main}{36}
+\indexentry{sub@action=\verb!*+\sub@action+|main}{36}
+\indexentry{lock@on=\verb!*+\lock@on+|main}{36}
+\indexentry{do@lockon=\verb!*+\do@lockon+|main}{36}
+\indexentry{lock@off=\verb!*+\lock@off+|main}{37}
+\indexentry{do@lockoff=\verb!*+\do@lockoff+|main}{37}
+\indexentry{skip@lockoff=\verb!*+\skip@lockoff+|main}{37}
+\indexentry{@ref=\verb!*+\@ref+|main}{37}
+\indexentry{insert@count=\verb!*+\insert@count+|main}{37}
+\indexentry{insert@count=\verb!*+\insert@count+|main}{37}
+\indexentry{dummy@ref=\verb!*+\dummy@ref+|main}{37}
+\indexentry{linenum@out=\verb!*+\linenum@out+|main}{38}
+\indexentry{iffirst@linenum@out@=\verb!*+\iffirst@linenum@out@+|main}{38}
+\indexentry{first@linenum@out@true=\verb!*+\first@linenum@out@true+|main}{38}
+\indexentry{first@linenum@out@false=\verb!*+\first@linenum@out@false+|main}{38}
+\indexentry{line@list@stuff=\verb!*+\line@list@stuff+|main}{39}
+\indexentry{new@line=\verb!*+\new@line+|main}{39}
+\indexentry{flag@start=\verb!*+\flag@start+|main}{39}
+\indexentry{flag@end=\verb!*+\flag@end+|main}{39}
+\indexentry{page@start=\verb!*+\page@start+|main}{39}
+\indexentry{startsub=\verb!*+\startsub+|main}{40}
+\indexentry{endsub=\verb!*+\endsub+|main}{40}
+\indexentry{advanceline=\verb!*+\advanceline+|main}{40}
+\indexentry{setline=\verb!*+\setline+|main}{40}
+\indexentry{startlock=\verb!*+\startlock+|main}{40}
+\indexentry{endlock=\verb!*+\endlock+|main}{40}
+\indexentry{end@lemmas=\verb!*+\end@lemmas+|main}{42}
+\indexentry{dummy@text=\verb!*+\dummy@text+|main}{42}
+\indexentry{@gobble=\verb!*+\@gobble+|main}{42}
+\indexentry{no@expands=\verb!*+\no@expands+|main}{42}
+\indexentry{morenoexpands=\verb!*+\morenoexpands+|main}{42}
+\indexentry{text=\verb!*+\text+|main}{43}
+\indexentry{@tag=\verb!*+\@tag+|main}{44}
+\indexentry{@nums=\verb!*+\@nums+|main}{44}
+\indexentry{set@line=\verb!*+\set@line+|main}{44}
+\indexentry{edfont@info=\verb!*+\edfont@info+|main}{45}
+\indexentry{lemma=\verb!*+\lemma+|main}{45}
+\indexentry{linenum=\verb!*+\linenum+|main}{45}
+\indexentry{line@set=\verb!*+\line@set+|main}{45}
+\indexentry{@add=\verb!*+\@add+|main}{46}
+\indexentry{raw@text=\verb!*+\raw@text+|main}{46}
+\indexentry{ifnumberedpar@=\verb!*+\ifnumberedpar@+|main}{46}
+\indexentry{numberedpar@true=\verb!*+\numberedpar@true+|main}{46}
+\indexentry{numberedpar@false=\verb!*+\numberedpar@false+|main}{46}
+\indexentry{num@lines=\verb!*+\num@lines+|main}{46}
+\indexentry{one@line=\verb!*+\one@line+|main}{46}
+\indexentry{par@line=\verb!*+\par@line+|main}{46}
+\indexentry{pstart=\verb!*+\pstart+|main}{46}
+\indexentry{pend=\verb!*+\pend+|main}{47}
+\indexentry{autopar=\verb!*+\autopar+|main}{47}
+\indexentry{normal@pars=\verb!*+\normal@pars+|main}{48}
+\indexentry{do@line=\verb!*+\do@line+|main}{48}
+\indexentry{getline@num=\verb!*+\getline@num+|main}{49}
+\indexentry{do@ballast=\verb!*+\do@ballast+|main}{50}
+\indexentry{ballast=\verb!*+\ballast+|main}{50}
+\indexentry{ballast@count=\verb!*+\ballast@count+|main}{50}
+\indexentry{do@actions=\verb!*+\do@actions+|main}{50}
+\indexentry{do@actions@next=\verb!*+\do@actions@next+|main}{50}
+\indexentry{affixline@num=\verb!*+\affixline@num+|main}{52}
+\indexentry{inserts@list=\verb!*+\inserts@list+|main}{54}
+\indexentry{add@inserts=\verb!*+\add@inserts+|main}{54}
+\indexentry{add@inserts@next=\verb!*+\add@inserts@next+|main}{54}
+\indexentry{add@penalties=\verb!*+\add@penalties+|main}{55}
+\indexentry{flush@notes=\verb!*+\flush@notes+|main}{56}
+\indexentry{@xloop=\verb!*+\@xloop+|main}{56}
+\indexentry{Kabelschacht, Alois}{56}
+\indexentry{Mittelbach, Frank}{57}
+\indexentry{Sch\"opf, Rainer}{57}
+\indexentry{Sullivan, Wayne}{57}
+\indexentry{notefontsetup=\verb!*+\notefontsetup+|main}{57}
+\indexentry{eightpoint=\verb!*+\eightpoint+|main}{58}
+\indexentry{notenumfont=\verb!*+\notenumfont+|main}{59}
+\indexentry{select@lemmafont=\verb!*+\select@lemmafont+|main}{59}
+\indexentry{Mittelbach, Frank}{59}
+\indexentry{Sch\"opf, Rainer}{59}
+\indexentry{notefontsetup=\verb!*+\notefontsetup+|main}{59}
+\indexentry{notenumfont=\verb!*+\notenumfont+|main}{59}
+\indexentry{select@lemmafont=\verb!*+\select@lemmafont+|main}{60}
+\indexentry{select@@lemmafont=\verb!*+\select@@lemmafont+|main}{60}
+\indexentry{Afootnote=\verb!*+\Afootnote+|main}{60}
+\indexentry{Bfootnote=\verb!*+\Bfootnote+|main}{60}
+\indexentry{Cfootnote=\verb!*+\Cfootnote+|main}{60}
+\indexentry{Dfootnote=\verb!*+\Dfootnote+|main}{60}
+\indexentry{Efootnote=\verb!*+\Efootnote+|main}{60}
+\indexentry{normalvfootnote=\verb!*+\normalvfootnote+|main}{61}
+\indexentry{normalfootfmt=\verb!*+\normalfootfmt+|main}{61}
+\indexentry{endashchar=\verb!*+\endashchar+|main}{62}
+\indexentry{fullstop=\verb!*+\fullstop+|main}{62}
+\indexentry{rbracket=\verb!*+\rbracket+|main}{62}
+\indexentry{printlines=\verb!*+\printlines+|main}{62}
+\indexentry{@pnum=\verb!*+\@pnum+|main}{62}
+\indexentry{@ssub=\verb!*+\@ssub+|main}{62}
+\indexentry{@elin=\verb!*+\@elin+|main}{62}
+\indexentry{@esl=\verb!*+\@esl+|main}{62}
+\indexentry{@dash=\verb!*+\@dash+|main}{62}
+\indexentry{normalfootstart=\verb!*+\normalfootstart+|main}{63}
+\indexentry{normalfootnoterule=\verb!*+\normalfootnoterule+|main}{64}
+\indexentry{normalfootgroup=\verb!*+\normalfootgroup+|main}{64}
+\indexentry{footnormal=\verb!*+\footnormal+|main}{64}
+\indexentry{footparagraph=\verb!*+\footparagraph+|main}{65}
+\indexentry{para@footsetup=\verb!*+\para@footsetup+|main}{66}
+\indexentry{en@number=\verb!*+\en@number+|main}{66}
+\indexentry{parafootstart=\verb!*+\parafootstart+|main}{66}
+\indexentry{para@vfootnote=\verb!*+\para@vfootnote+|main}{66}
+\indexentry{Downes, Michael}{67}
+\indexentry{Sullivan, Wayne}{67}
+\indexentry{Sullivan, Wayne}{68}
+\indexentry{unvxh=\verb!*+\unvxh+|main}{68}
+\indexentry{Downes, Michael}{68}
+\indexentry{interparanoteglue=\verb!*+\interparanoteglue+|main}{68}
+\indexentry{ipn@skip=\verb!*+\ipn@skip+|main}{68}
+\indexentry{parafootfmt=\verb!*+\parafootfmt+|main}{69}
+\indexentry{para@footgroup=\verb!*+\para@footgroup+|main}{69}
+\indexentry{rigidbalance=\verb!*+\rigidbalance+|main}{70}
+\indexentry{dosplits=\verb!*+\dosplits+|main}{70}
+\indexentry{splitoff=\verb!*+\splitoff+|main}{70}
+\indexentry{@h=\verb!*+\@h+|main}{70}
+\indexentry{@k=\verb!*+\@k+|main}{70}
+\indexentry{footthreecol=\verb!*+\footthreecol+|main}{70}
+\indexentry{threecolfootsetup=\verb!*+\threecolfootsetup+|main}{70}
+\indexentry{threecolvfootnote=\verb!*+\threecolvfootnote+|main}{71}
+\indexentry{threecolfootfmt=\verb!*+\threecolfootfmt+|main}{71}
+\indexentry{threecolfootgroup=\verb!*+\threecolfootgroup+|main}{71}
+\indexentry{foottwocol=\verb!*+\foottwocol+|main}{72}
+\indexentry{twocolfootsetup=\verb!*+\twocolfootsetup+|main}{72}
+\indexentry{twocolvfootnote=\verb!*+\twocolvfootnote+|main}{72}
+\indexentry{twocolfootfmt=\verb!*+\twocolfootfmt+|main}{72}
+\indexentry{twocolfootgroup=\verb!*+\twocolfootgroup+|main}{72}
+\indexentry{crop@vsize=\verb!*+\crop@vsize+|main}{73}
+\indexentry{crop@hsize=\verb!*+\crop@hsize+|main}{73}
+\indexentry{head@margin=\verb!*+\head@margin+|main}{73}
+\indexentry{back@margin=\verb!*+\back@margin+|main}{73}
+\indexentry{odd@back=\verb!*+\odd@back+|main}{73}
+\indexentry{even@back=\verb!*+\even@back+|main}{73}
+\indexentry{@back=\verb!*+\@back+|main}{73}
+\indexentry{registration@marks=\verb!*+\registration@marks+|main}{73}
+\indexentry{vertical@rules=\verb!*+\vertical@rules+|main}{73}
+\indexentry{horizontal@rules=\verb!*+\horizontal@rules+|main}{73}
+\indexentry{cropwidth=\verb!*+\cropwidth+|main}{73}
+\indexentry{cropgap=\verb!*+\cropgap+|main}{73}
+\indexentry{magicvskip=\verb!*+\magicvskip+|main}{74}
+\indexentry{headlinefont=\verb!*+\headlinefont+|main}{74}
+\indexentry{cropsetup=\verb!*+\cropsetup+|main}{74}
+\indexentry{ifcropmarks@=\verb!*+\ifcropmarks@+|main}{74}
+\indexentry{Salomon, David}{74}
+\indexentry{Williamson, Hugh}{74}
+\indexentry{output=\verb!*+\output+|main}{75}
+\indexentry{edmac@output=\verb!*+\edmac@output+|main}{75}
+\indexentry{pagecontents=\verb!*+\pagecontents+|main}{75}
+\indexentry{do@cropmarks=\verb!*+\do@cropmarks+|main}{76}
+\indexentry{do@feet=\verb!*+\do@feet+|main}{76}
+\indexentry{labelref@list=\verb!*+\labelref@list+|main}{76}
+\indexentry{@aux=\verb!*+\@aux+|main}{77}
+\indexentry{do@labelsfile=\verb!*+\do@labelsfile+|main}{77}
+\indexentry{label=\verb!*+\label+|main}{77}
+\indexentry{zz@@@=\verb!*+\zz@@@+|main}{77}
+\indexentry{make@labels=\verb!*+\make@labels+|main}{77}
+\indexentry{Sullivan, Wayne}{77}
+\indexentry{@lab=\verb!*+\@lab+|main}{78}
+\indexentry{pageref=\verb!*+\pageref+|main}{78}
+\indexentry{xpageref=\verb!*+\xpageref+|main}{78}
+\indexentry{lineref=\verb!*+\lineref+|main}{78}
+\indexentry{xlineref=\verb!*+\xlineref+|main}{78}
+\indexentry{sublineref=\verb!*+\sublineref+|main}{78}
+\indexentry{xsublineref=\verb!*+\xsublineref+|main}{78}
+\indexentry{ref@undefined=\verb!*+\ref@undefined+|main}{78}
+\indexentry{getref@num=\verb!*+\getref@num+|main}{78}
+\indexentry{label@parse=\verb!*+\label@parse+|main}{79}
+\indexentry{xxref=\verb!*+\xxref+|main}{79}
+\indexentry{makelabel=\verb!*+\makelabel+|main}{79}
+\indexentry{@end=\verb!*+\@end+|main}{79}
+\indexentry{ifend@=\verb!*+\ifend@+|main}{79}
+\indexentry{end@true=\verb!*+\end@true+|main}{79}
+\indexentry{end@false=\verb!*+\end@false+|main}{79}
+\indexentry{end@open=\verb!*+\end@open+|main}{80}
+\indexentry{end@close=\verb!*+\end@close+|main}{80}
+\indexentry{end@stuff=\verb!*+\end@stuff+|main}{80}
+\indexentry{Aendnote=\verb!*+\Aendnote+|main}{80}
+\indexentry{Bendnote=\verb!*+\Bendnote+|main}{80}
+\indexentry{Cendnote=\verb!*+\Cendnote+|main}{80}
+\indexentry{Dendnote=\verb!*+\Dendnote+|main}{80}
+\indexentry{Eendnote=\verb!*+\Eendnote+|main}{80}
+\indexentry{Aend=\verb!*+\Aend+|main}{80}
+\indexentry{Bend=\verb!*+\Bend+|main}{80}
+\indexentry{Cend=\verb!*+\Cend+|main}{80}
+\indexentry{Dend=\verb!*+\Dend+|main}{80}
+\indexentry{Eend=\verb!*+\Eend+|main}{80}
+\indexentry{endprint=\verb!*+\endprint+|main}{80}
+\indexentry{@gobblethree=\verb!*+\@gobblethree+|main}{80}
+\indexentry{@section=\verb!*+\@section+|main}{80}
+\indexentry{doendnotes=\verb!*+\doendnotes+|main}{81}
+\indexentry{noendnotes=\verb!*+\noendnotes+|main}{81}
+\indexentry{Gascoigne, George}{85}
+\indexentry{Pigman, III$^{rd}$, G. W.}{85}
+\indexentry{Shakespeare, William}{90}
+\indexentry{Sullivan, Wayne}{94}
+\indexentry{Levy, Silvio}{95}
+\indexentry{Lagally, Klaus}{101}
+\indexentry{Velthuis, Frans}{101}
