@@ -1,4 +1,4 @@
-# edmac
+# EDMAC
 The venerable EDMAC macros for formatting critical editions with Plain TeX.
 
 This is version 3.17, from June 1996.
