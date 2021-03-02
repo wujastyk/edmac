@@ -31,5 +31,6 @@ A bibliography of some of the editions produced with EDMAC, LEDMAC and reLEDMAC 
 ## The published manual
 
 In 1996, the [UK TeX Users Group](http://uk.tug.org/) and the (international) [TeX Users Group](http://tug.org) jointly published the EDMAC manual and code as a physical book ([Worldcat entry](http://www.worldcat.org/oclc/38058109)). John and I are grateful to the late Sebastian Rahtz for the work he did in bringing this about and in formatting the book nicely for print.
+Appendix A of the EDMAC documentation and the published manual included the code for half a dozen examples.  The ouputs for these examples are available as PDFs in the directory `../examples` in this repo.
 
 EDMAC is hosted here at GitHub, and also at the TeX Users Group, at http://tug.org/edmac.
