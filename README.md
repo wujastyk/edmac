@@ -6,7 +6,9 @@ This is version 3.17, from June 1996.  This was the final release of the EDMAC p
 It was authored by John Lavagnino and Dominik Wujastyk, with help from many friends.  After a long period of testing and refinement, it is now frozen and no longer maintained.  But it still works well :-)
 
 EDMAC is a set of Plain TeX macros providing the ability to format critical editions of texts in the traditional way, i.e., similar to the Oxford Classical Texts, Teubner, Arden Shakespeare and other series. The principal functions that are added are marginal line numbering and multiple series of footnotes and endnotes keyed to line numbers. While EDMAC's inner workings are necessarily esoteric, it provides relatively simple macros to enable you to control the exact format of your edition, taking into account the need to vary the
-format for different sorts of texts.
+format for different sorts of texts.  There are some examples of EDMAC output in the `examples` directory above, like this one:
+
+![image](https://user-images.githubusercontent.com/762246/121459610-ce4f0900-c968-11eb-8cf4-dd052c8f48a6.png)
 
 EDMAC 3.17 still works just fine, and is the only choice for anyone who works with Plain TeX.
 
