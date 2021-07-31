@@ -18,7 +18,7 @@ EDMAC 3.16 was forked in 1994 by Peter Wilson so that it could be conveniently l
 
 Later still, [Maïeul Rouquette](https://github.com/maieul) worked on LEDMAC and produced an extended, updated LaTeX package called eLEDMAC ([CTAN](https://www.ctan.org/pkg/eledmac)).  After much development, eLEDMAC was frozen and its successor became reLEDMAC ([CTAN](https://www.ctan.org/pkg/reledmac), [GitHub](https://github.com/maieul/ledmac)), currently the most evolved and powerful version of this family of macro packages.
 
-A bibliography of some of the editions produced with EDMAC, LEDMAC and reLEDMAC [is publicly available](https://www.zotero.org/groups/209265/critical_editions_typeset_with_edmac_ledmac_eledmac_and_reledmac/library).
+A bibliography of some of the editions produced with EDMAC, LEDMAC and reLEDMAC [is publicly available](https://www.zotero.org/groups/209265/critical_editions_typeset_with_edmac_ledmac_eledmac_and_reledmac/library). There are over 75 volumes in the bibliography (mid-2021).
 
 ## The published manual
 
