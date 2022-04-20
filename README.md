@@ -1,4 +1,6 @@
 # EDMAC
+[![DOI](https://zenodo.org/badge/90817944.svg)](https://zenodo.org/badge/latestdoi/90817944)
+
 The venerable EDMAC macros for formatting critical editions with Plain TeX.
 
 This is version 3.17, from June 1996.  This was the final release of the EDMAC package.
