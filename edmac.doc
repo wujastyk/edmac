@@ -3303,15 +3303,30 @@
 % we want to label it using the system that was in effect at its start.
 % But when sub-lineation begins at the very start of a line we have a
 % problem, if we don't put in this code.
+% Edit, 2026-02, Dominik: the code for \startsub and \endsub
+% was optimized by Gemini (\url{https://gemini.google.com/share/ee543a8881e0}), 
+% with the following remark:
+% ``Use a \skip register instead of a \dimen register so 
+% the flexible glue components are completely preserved."
+% Old code:
+% \def\startsub{\dimen0\lastskip
+%   \ifdim\dimen0>0pt \unskip \fi
+%   \write\linenum@out{\string\sub@on}%
+%   \ifdim\dimen0>0pt \hskip\dimen0 \fi}
+% \def\endsub{\dimen0\lastskip
+%   \ifdim\dimen0>0pt \unskip \fi
+%   \write\linenum@out{\string\sub@off}%
+%   \ifdim\dimen0>0pt \hskip\dimen0 \fi}
+% New code:
 %    \begin{macrocode}
-\def\startsub{\dimen0\lastskip
-  \ifdim\dimen0>0pt \unskip \fi
+\def\startsub{\skip0=\lastskip
+  \ifdim\skip0>0pt \unskip \fi
   \write\linenum@out{\string\sub@on}%
-  \ifdim\dimen0>0pt \hskip\dimen0 \fi}
-\def\endsub{\dimen0\lastskip
-  \ifdim\dimen0>0pt \unskip \fi
+  \ifdim\skip0>0pt \hskip\skip0 \fi}
+\def\endsub{\skip0=\lastskip
+  \ifdim\skip0>0pt \unskip \fi
   \write\linenum@out{\string\sub@off}%
-  \ifdim\dimen0>0pt \hskip\dimen0 \fi}
+  \ifdim\skip0>0pt \hskip\skip0 \fi}
 %    \end{macrocode}
 % \end{macro}
 % \end{macro}
