@@ -23,7 +23,7 @@
 %     string "\author".
 % \fi
 %
-% \CheckSum{3107}
+% \CheckSum{3106}
 {\catcode`\$=9
 \gdef\fileversion{ $Revision:   3.17  $ }
 \gdef\filedate{ $Date:   12 Jun 1996 17:15:00  $ }}
@@ -3303,12 +3303,14 @@
 % we want to label it using the system that was in effect at its start.
 % But when sub-lineation begins at the very start of a line we have a
 % problem, if we don't put in this code.
-% Edit, 2026-02, Dominik: the code for \startsub and \endsub
+%
+% Edit, 2026-02, Dominik: the code for "\startsub" and "\endsub"
 % was optimized by Gemini (\url{https://gemini.google.com/share/ee543a8881e0}), 
 % with the following remark:
-% ``Use a \skip register instead of a \dimen register so 
-% the flexible glue components are completely preserved."
+% ``Use a "\skip" register instead of a "\dimen" register so 
+% the flexible glue components are completely preserved.''
 % Old code:
+% \begin{verbatim}
 % \def\startsub{\dimen0\lastskip
 %   \ifdim\dimen0>0pt \unskip \fi
 %   \write\linenum@out{\string\sub@on}%
@@ -3317,6 +3319,7 @@
 %   \ifdim\dimen0>0pt \unskip \fi
 %   \write\linenum@out{\string\sub@off}%
 %   \ifdim\dimen0>0pt \hskip\dimen0 \fi}
+% \end{verbatim}
 % New code:
 %    \begin{macrocode}
 \def\startsub{\skip0=\lastskip
