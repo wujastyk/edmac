@@ -16,7 +16,7 @@ EDMAC 3.17 still works just fine, and is the only choice for anyone who works wi
 
 ## Later history 
 
-EDMAC 3.16 was forked in 1994 by Peter Wilson so that it could be conveniently loaded as a LaTeX package and take advantage of LaTeX features. This package was called LEDMAC (original version [at Github](https://github.com/wujastyk/ledmac); successor available on [CTAN](https://www.ctan.org/pkg/ledmac)).
+EDMAC 3.16 was forked in 1994 by Peter Wilson so that it could be conveniently loaded as a LaTeX package and take advantage of LaTeX features. This package was called LEDMAC (original version [at Github](https://wujastyk.github.io/ledmac); a successor version, possibly not backwards-compatible, available on [CTAN](https://www.ctan.org/pkg/ledmac)).
 
 Later still, [Maïeul Rouquette](https://github.com/maieul) worked on LEDMAC and produced an extended, updated LaTeX package called eLEDMAC ([CTAN](https://www.ctan.org/pkg/eledmac)).  After much development, eLEDMAC was frozen and its successor became reLEDMAC ([CTAN](https://www.ctan.org/pkg/reledmac), [GitHub](https://github.com/maieul/ledmac)), currently the most evolved and powerful version of this family of macro packages.
 
